@@ -69,5 +69,8 @@ POST      | /api/chat/:inbox/send  | Send a message in a conversation.
 - Sequelize: ORM for managing SQLite database.
 - SQLite: Database for storing conversations and messages.
 
+## Credits
+This application was built by Jairus Miguel Montante as part of a coding assessment.
+
 ## License
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
